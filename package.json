@@ -1,0 +1,18 @@
+{
+  "name": "practical-start-with-react",
+  "version": "1.0.0",
+  "description": "practical start with react by Roland Guijt\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[g\u001b[F\u001b[B\u001b[F\u001b[B",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "npm": "^6.1.0"
+  }
+}
